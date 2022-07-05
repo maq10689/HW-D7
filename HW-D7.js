@@ -140,3 +140,4 @@ else if (x1 === 9) {
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
 */
+
